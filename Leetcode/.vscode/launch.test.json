@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "Leetcode",
+                "projectName": "Leetcode",
+                "workingDirectory": "/home/mulin/Code/RecruitmentNotes/Leetcode",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "Leetcode",
+                "projectName": "Leetcode",
+                "workingDirectory": "/home/mulin/Code/RecruitmentNotes/Leetcode",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
