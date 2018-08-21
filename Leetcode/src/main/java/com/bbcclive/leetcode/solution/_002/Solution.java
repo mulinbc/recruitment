@@ -1,8 +1,8 @@
-package com.bbcclive.leetcode;
+package com.bbcclive.leetcode.solution._002;
 
 import com.bbcclive.leetcode.structure.ListNode;
 
-public class Solution002 {
+public class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode ret = new ListNode(0);
         ListNode p1 = l1, p2 = l2, pr = ret;

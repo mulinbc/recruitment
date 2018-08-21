@@ -1,8 +1,8 @@
-package com.bbcclive.leetcode;
+package com.bbcclive.leetcode.solution._001;
 
 import java.util.*;
 
-public class Solution001 {
+public class Solution {
     // 一遍哈希表
     public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> map = new HashMap<>();

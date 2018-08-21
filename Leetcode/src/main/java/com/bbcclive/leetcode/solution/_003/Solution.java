@@ -1,9 +1,9 @@
-package com.bbcclive.leetcode;
+package com.bbcclive.leetcode.solution._003;
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class Solution003 {
+public class Solution {
     // 优化滑动窗口，使用HashMap存储改字符上次出现的位置
     public int lengthOfLongestSubstring(String s) {
         int ret = 0;
