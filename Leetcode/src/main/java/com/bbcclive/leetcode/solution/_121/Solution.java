@@ -2,6 +2,8 @@ package com.bbcclive.leetcode.solution._121;
 
 public class Solution {
     public int maxProfit(int[] prices) {
+        // 1.始终保存最小的买入价格
+        // 2.始终保存最大的利润
         int ret = 0, minPrice = Integer.MAX_VALUE;
         for (int price : prices) {
             if (price < minPrice)
