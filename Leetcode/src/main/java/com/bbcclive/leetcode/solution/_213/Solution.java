@@ -16,7 +16,7 @@ public class Solution {
             else
                 return 0;
         }
-        return Math.max(helper(Arrays.copyOfRange(nums, 0, n - 1)), helper(Arrays.copyOfRange(nums, 0, n - 1)));
+        return Math.max(helper(Arrays.copyOfRange(nums, 0, n - 1)), helper(Arrays.copyOfRange(nums, 1, n)));
     }
 
     private int helper(int[] nums) {
