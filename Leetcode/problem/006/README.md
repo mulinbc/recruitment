@@ -29,6 +29,6 @@
     Y A   H R
     P     I
 
-**提示**：
+**提示**：字符串，注意循环下标关系
 
 [Title]: https://leetcode-cn.com/problems/zigzag-conversion/description/
