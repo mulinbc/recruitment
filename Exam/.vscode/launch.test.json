@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "Exam",
+                "projectName": "Exam",
+                "workingDirectory": "/home/mulin/Code/Recruitment/Exam",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "Exam",
+                "projectName": "Exam",
+                "workingDirectory": "/home/mulin/Code/Recruitment/Exam",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
