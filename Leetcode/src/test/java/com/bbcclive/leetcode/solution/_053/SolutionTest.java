@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class SolutionTest {
     @Test
-    public void testLengthOfLongestSubstring() {
+    public void testMaxSubArray() {
         int[] nums = { -2, 1, -3, 4, -1, 2, 1, -5, 4 };
         int expected = 6;
         int actual = new Solution().maxSubArray(nums);

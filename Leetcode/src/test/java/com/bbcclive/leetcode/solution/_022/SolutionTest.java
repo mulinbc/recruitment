@@ -8,7 +8,7 @@ import org.junit.Test;
 
 public class SolutionTest {
     @Test
-    public void testLengthOfLongestSubstring() {
+    public void testGenerateParenthesis() {
         int n = 3;
         String[] expecteds = { "()()()", "()(())", "(())()", "(()())", "((()))" };
         List<String> list = new Solution().generateParenthesis(n);

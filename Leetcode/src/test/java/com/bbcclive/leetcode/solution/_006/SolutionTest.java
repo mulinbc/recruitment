@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class SolutionTest {
     @Test
-    public void testLengthOfLongestSubstring() {
+    public void testConvert() {
         String s = "PAYPALISHIRING";
         int numRows = 3;
         String expected = "PAHNAPLSIIGYIR";

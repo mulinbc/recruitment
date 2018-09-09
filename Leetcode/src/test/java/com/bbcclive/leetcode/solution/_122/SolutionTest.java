@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class SolutionTest {
     @Test
-    public void testLengthOfLongestSubstring() {
+    public void testMaxProfit() {
         int[] prices = { 7, 1, 5, 3, 6, 4 };
         int expected = 7;
         int actual = new Solution().maxProfit(prices);

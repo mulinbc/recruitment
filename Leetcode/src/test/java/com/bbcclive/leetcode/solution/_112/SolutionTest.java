@@ -8,7 +8,7 @@ import org.junit.Test;
 
 public class SolutionTest {
     @Test
-    public void testLengthOfLongestSubstring() {
+    public void testHasPathSum() {
         String strTree = "5 4 8 11 null 13 4 7 2 null null null 1";
         int sum = 22;
         TreeNode root = TreeNode.createTree(strTree);

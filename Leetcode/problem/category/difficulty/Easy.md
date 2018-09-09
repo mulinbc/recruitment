@@ -6,6 +6,7 @@
 |[009]|回文数|数学|
 |[053]|最大子序和|动态规划|
 |[070]|爬楼梯|动态规划|
+|[100]|相同的树|深度优先搜索|
 |[112]|路径总和|深度优先搜索|
 |[121]|买卖股票的最佳时机|动态规划|
 |[122]|买卖股票的最佳时机II|贪心算法|
@@ -16,6 +17,7 @@
 [009]: ../../description/009/README.md
 [053]: ../../description/053/README.md
 [070]: ../../description/070/README.md
+[100]: ../../description/100/README.md
 [112]: ../../description/112/README.md
 [121]: ../../description/121/README.md
 [122]: ../../description/122/README.md

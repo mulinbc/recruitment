@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class SolutionTest {
     @Test
-    public void testLengthOfLongestSubstring() {
+    public void testClimbStairs() {
         int n = 3;
         int expected = 3;
         int actual = new Solution().climbStairs(n);

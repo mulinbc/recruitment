@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class SolutionTest {
     @Test
-    public void testLengthOfLongestSubstring() {
+    public void testRob() {
         int[] nums = { 1, 2, 3, 1 };
         int expected = 4;
         int actual = new Solution().rob(nums);

@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class SolutionTest {
     @Test
-    public void testLengthOfLongestSubstring() {
+    public void testUniquePaths() {
         int m = 7;
         int n = 3;
         int expected = 28;

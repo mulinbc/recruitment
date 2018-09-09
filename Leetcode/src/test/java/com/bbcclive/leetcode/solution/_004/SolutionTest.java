@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class SolutionTest {
     @Test
-    public void testLengthOfLongestSubstring() {
+    public void testFindMedianSortedArrays() {
         int[] nums1 = { 1, 2 };
         int[] nums2 = { 3, 4 };
 

@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class SolutionTest {
     @Test
-    public void testLengthOfLongestSubstring() {
+    public void testLongestPalindrome() {
         String s = "babad";
         String expected = "bab";
         String actual = new Solution().longestPalindrome(s);

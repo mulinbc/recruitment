@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class NumArrayTest {
     @Test
-    public void testLengthOfLongestSubstring() {
+    public void testSumRange() {
         int[] nums = { -2, 0, 3, -5, 2, -1 };
         int i = 2, j = 5;
         int expected = -1;

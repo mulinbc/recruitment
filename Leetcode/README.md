@@ -40,6 +40,7 @@ Leetcode，传说中的刷题神器。
 |[063]|不同路径II|中等|动态规划|
 |[064]|最小路径和|中等|动态规划|
 |[070]|爬楼梯|简单|动态规划|
+|[100]|相同的树|简单|深度优先搜索|
 |[112]|路径总和|简单|深度优先搜索|
 |[113]|路径总和II|中等|深度优先搜索|
 |[121]|买卖股票的最佳时机|简单|动态规划|
@@ -61,6 +62,7 @@ Leetcode，传说中的刷题神器。
 [063]: problem/description/063/README.md
 [064]: problem/description/064/README.md
 [070]: problem/description/070/README.md
+[100]: problem/description/100/README.md
 [112]: problem/description/112/README.md
 [113]: problem/description/113/README.md
 [121]: problem/description/121/README.md

@@ -5,7 +5,7 @@ import static org.junit.Assert.*;
 
 public class SolutionTest {
     @Test
-    public void testTwoSum() {
+    public void testIsPalindrome() {
         int x = 121;
         boolean expected = true;
         boolean actual = new Solution().isPalindrome(x);
