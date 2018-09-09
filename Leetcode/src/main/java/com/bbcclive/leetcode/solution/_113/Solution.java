@@ -5,7 +5,7 @@ import java.util.List;
 
 import com.bbcclive.leetcode.structure.TreeNode;
 
-//Definition for a binary tree node.
+// Definition for a binary tree node.
 // public class TreeNode {
 //     int val;
 //     TreeNode left;

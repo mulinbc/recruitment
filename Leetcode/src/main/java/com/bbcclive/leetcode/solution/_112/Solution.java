@@ -2,10 +2,16 @@ package com.bbcclive.leetcode.solution._112;
 
 import com.bbcclive.leetcode.structure.TreeNode;
 
-/**
- * Definition for a binary tree node. public class TreeNode { int val; TreeNode
- * left; TreeNode right; TreeNode(int x) { val = x; } }
- */
+// Definition for a binary tree node.
+// public class TreeNode {
+//     int val;
+//     TreeNode left;
+//     TreeNode right;
+//     TreeNode(int x) {
+//         val = x;
+//     }
+// }
+
 public class Solution {
 
     public boolean hasPathSum(TreeNode root, int sum) {
