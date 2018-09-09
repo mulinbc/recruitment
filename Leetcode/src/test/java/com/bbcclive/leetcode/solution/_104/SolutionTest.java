@@ -8,7 +8,7 @@ import org.junit.Test;
 
 public class SolutionTest {
     @Test
-    public void testIsSameTree() {
+    public void testMaxDepth() {
         String strTree = "3 9 20 null null 15 7";
         TreeNode root = TreeNode.createTree(strTree);
         int expected = 3;

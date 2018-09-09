@@ -8,7 +8,7 @@ import org.junit.Test;
 
 public class SolutionTest {
     @Test
-    public void testIsSameTree() {
+    public void testIsSymmetric() {
         String strTree = "1 2 2 3 4 4 3";
         TreeNode root = TreeNode.createTree(strTree);
         boolean expected = true;
