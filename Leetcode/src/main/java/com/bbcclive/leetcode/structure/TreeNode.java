@@ -8,7 +8,7 @@ public class TreeNode {
     public TreeNode left;
     public TreeNode right;
 
-    TreeNode(int x) {
+    public TreeNode(int x) {
         val = x;
     }
 
@@ -45,5 +45,31 @@ public class TreeNode {
             }
         }
         return root;
+    }
+
+    public static String convertTree(TreeNode root) {
+        if (root == null) {
+            return "";
+        }
+
+        String output = "";
+        Queue<TreeNode> nodeQueue = new LinkedList<>();
+        nodeQueue.add(root);
+        while (!nodeQueue.isEmpty()) {
+            TreeNode node = nodeQueue.remove();
+            if (node == null) {
+                output += "null ";
+                continue;
+            }
+
+            output += String.valueOf(node.val) + " ";
+
+            if (node.left == null && node.right == null) {
+                continue;
+            }
+            nodeQueue.add(node.left);
+            nodeQueue.add(node.right);
+        }
+        return output.substring(0, output.length() - 1);
     }
 }
