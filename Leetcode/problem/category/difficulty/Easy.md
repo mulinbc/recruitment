@@ -22,6 +22,7 @@
 |[695]|岛屿的最大面积|深度优先搜索|
 |[733]|图像渲染|深度优先搜索|
 |[872]|叶子相似的树|深度优先搜索|
+|[897]|递增顺序查找树|深度优先搜索|
 
 [001]: ../../description/001/README.md
 [009]: ../../description/009/README.md
@@ -43,3 +44,4 @@
 [695]: ../../description/695/README.md
 [733]: ../../description/733/README.md
 [872]: ../../description/872/README.md
+[897]: ../../description/897/README.md

@@ -59,6 +59,7 @@ Leetcode，传说中的刷题神器。
 |[695]|岛屿的最大面积|简单|深度优先搜索|
 |[733]|图像渲染|简单|深度优先搜索|
 |[872]|叶子相似的树|简单|深度优先搜索|
+|[897]|递增顺序查找树|简单|深度优先搜索|
 
 [001]: problem/description/001/README.md
 [002]: problem/description/002/README.md
@@ -92,3 +93,4 @@ Leetcode，传说中的刷题神器。
 [695]: problem/description/695/README.md
 [733]: problem/description/733/README.md
 [872]: problem/description/872/README.md
+[897]: problem/description/897/README.md
