@@ -2,7 +2,7 @@ package com.bbcclive.leetcode.solution._695;
 
 public class Solution {
     public int maxAreaOfIsland(int[][] grid) {
-        if (grid.length == 0)
+        if (grid == null || grid.length == 0)
             return 0;
         int ret = 0;
         for (int i = 0; i < grid.length; i++) {
