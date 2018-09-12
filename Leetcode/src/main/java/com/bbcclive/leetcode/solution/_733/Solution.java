@@ -5,13 +5,13 @@ public class Solution {
         if (image == null)
             return null;
         int oldColor = image[sr][sc];
+        if (oldColor == newColor)
+            return image;
         helper(image, sr, sc, oldColor, newColor);
         return image;
     }
 
     public void helper(int[][] image, int sr, int sc, int oldColor, int newColor) {
-        if (oldColor == newColor)
-            return;
         if (sr >= 0 && sr < image.length && sc >= 0 && sc < image[0].length) {
             if (image[sr][sc] == oldColor) {
                 image[sr][sc] = newColor;
