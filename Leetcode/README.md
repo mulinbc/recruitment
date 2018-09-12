@@ -51,9 +51,14 @@ Leetcode，传说中的刷题神器。
 |[121]|买卖股票的最佳时机|简单|动态规划|
 |[122]|买卖股票的最佳时机II|简单|贪心算法|
 |[198]|打家劫舍|简单|动态规划|
+|[200]|岛屿的个数|中等|深度优先搜索|
 |[213]|打家劫舍II|中等|动态规划|
 |[257]|二叉树的所有路径|简单|深度优先搜索|
 |[303]|区域和检索-数组不可变|简单|动态规划|
+|[690]|员工的重要性|简单|深度优先搜索|
+|[695]|岛屿的最大面积|简单|深度优先搜索|
+|[733]|图像渲染|简单|深度优先搜索|
+|[872]|叶子相似的树|简单|深度优先搜索|
 
 [001]: problem/description/001/README.md
 [002]: problem/description/002/README.md
@@ -79,6 +84,11 @@ Leetcode，传说中的刷题神器。
 [121]: problem/description/121/README.md
 [122]: problem/description/122/README.md
 [198]: problem/description/198/README.md
+[200]: problem/description/200/README.md
 [213]: problem/description/213/README.md
 [257]: problem/description/257/README.md
 [303]: problem/description/303/README.md
+[690]: problem/description/690/README.md
+[695]: problem/description/695/README.md
+[733]: problem/description/733/README.md
+[872]: problem/description/872/README.md

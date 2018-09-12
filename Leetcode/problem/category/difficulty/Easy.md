@@ -18,6 +18,10 @@
 |[198]|打家劫舍|动态规划|
 |[257]|二叉树的所有路径|深度优先搜索|
 |[303]|区域和检索-数组不可变|动态规划|
+|[690]|员工的重要性|深度优先搜索|
+|[695]|岛屿的最大面积|深度优先搜索|
+|[733]|图像渲染|深度优先搜索|
+|[872]|叶子相似的树|深度优先搜索|
 
 [001]: ../../description/001/README.md
 [009]: ../../description/009/README.md
@@ -35,3 +39,7 @@
 [198]: ../../description/198/README.md
 [257]: ../../description/257/README.md
 [303]: ../../description/303/README.md
+[690]: ../../description/690/README.md
+[695]: ../../description/695/README.md
+[733]: ../../description/733/README.md
+[872]: ../../description/872/README.md

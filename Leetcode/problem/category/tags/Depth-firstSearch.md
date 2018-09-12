@@ -10,7 +10,12 @@
 |[111]|二叉树的最小深度|简单|
 |[112]|路径总和|简单|
 |[113]|路径总和II|中等|
+|[200]|岛屿的个数|中等|
 |[257]|二叉树的所有路径|简单|
+|[690]|员工的重要性|简单|
+|[695]|岛屿的最大面积|简单|
+|[733]|图像渲染|简单|
+|[872]|叶子相似的树|简单|
 
 [100]: ../../description/100/README.md
 [101]: ../../description/101/README.md
@@ -20,4 +25,9 @@
 [111]: ../../description/111/README.md
 [112]: ../../description/112/README.md
 [113]: ../../description/113/README.md
+[200]: ../../description/200/README.md
 [257]: ../../description/257/README.md
+[690]: ../../description/690/README.md
+[695]: ../../description/695/README.md
+[733]: ../../description/733/README.md
+[872]: ../../description/872/README.md

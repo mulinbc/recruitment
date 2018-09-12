@@ -11,6 +11,7 @@
 |[063]|不同路径II|动态规划|
 |[064]|最小路径和|动态规划|
 |[113]|路径总和II|深度优先搜索|
+|[200]|岛屿的个数|深度优先搜索|
 |[213]|打家劫舍II|动态规划|
 
 [002]: ../../description/002/README.md
@@ -22,4 +23,5 @@
 [063]: ../../description/063/README.md
 [064]: ../../description/064/README.md
 [113]: ../../description/113/README.md
+[200]: ../../description/200/README.md
 [213]: ../../description/213/README.md
